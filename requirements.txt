@@ -90,7 +90,7 @@ typing-extensions==3.7.4.3
 tzlocal==2.1
 Unidecode==1.1.1
 update-checker==0.18.0
-urllib3==1.26.2
+urllib3==1.26.5
 virtualenv==20.2.2
 WeatherAlerts==0.5.0
 webencodings==0.5.1
